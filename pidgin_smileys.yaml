@@ -1,0 +1,834 @@
+name: Pidgin Smileys
+version: 2.0.2
+description: "Pidgin Smileys is a collection of smileys and emoticons from the [Pidgin chat program](http://pidgin.im)."
+author:
+  name: Pidgin Team
+homepage: http://pidgin.im
+license: GPL
+
+smileys:
+  # default smileys (default, Windows Live Messenger 8.1 (MSN))
+  smile:
+    enabled: true
+    acronyms: ":) :-)"
+    description: "smile"
+
+  smile_big:
+    enabled: true
+    acronyms: ":D :d :-D :-d"
+    description: "smile-big"
+
+  wink:
+    enabled: true
+    acronyms: ";) ;-)"
+    description: "wink"
+
+  shock:
+    enabled: true
+    acronyms: "=-O :-O :-o :O :o *surprised*"
+    description: "shock"
+
+  tongue:
+    enabled: true
+    acronyms: ":P :p :-P :-p"
+    description: "tongue"
+
+  glasses_cool:
+    enabled: true
+    acronyms: "(H) (h) :+ 8-) B-) b-)"
+    description: "glasses-cool"
+
+  angry:
+    enabled: true
+    acronyms: ":@ :-@ X-( x-( X( x("
+    description: "angry"
+
+  embarrassed:
+    enabled: true
+    acronyms: ":$ :-$ :-["
+    description: "embarrassed"
+
+  confused:
+    enabled: true
+    acronyms: ":S :s"
+    description: "confused"
+
+  sad:
+    enabled: true
+    acronyms: ":( :-("
+    description: "sad"
+
+  crying:
+    enabled: true
+    acronyms: ":'( :-< :(("
+    description: "crying"
+
+  neutral:
+    enabled: true
+    acronyms: ":| :-|"
+    description: "neutral"
+
+  devil:
+    enabled: true
+    acronyms: "(6) ]:-> >:)"
+    description: "devil"
+
+  angel:
+    enabled: true
+    acronyms: "(A) (a) O:-) o:-) 0:-)"
+    description: "angel"
+
+  love:
+    enabled: true
+    acronyms: "(L) (l) *heart*"
+    description: "love"
+
+  love_over:
+    enabled: true
+    acronyms: "(U) (u) =(( :broken_heart:"
+    description: "love-over"
+
+  msn:
+    enabled: true
+    acronyms: "(M) (m)"
+    description: "msn"
+
+  cat:
+    enabled: true
+    acronyms: "(@)"
+    description: "cat"
+
+  dog:
+    enabled: true
+    acronyms: "(&)"
+    description: "dog"
+
+  moon:
+    enabled: true
+    acronyms: "(S)"
+    description: "moon"
+
+  star:
+    enabled: true
+    acronyms: "(*) <*>"
+    description: "star"
+
+  film:
+    enabled: true
+    acronyms: "(~)"
+    description: "film"
+
+  musical_note:
+    enabled: true
+    acronyms: ":-\' (8) *music*"
+    description: "musical-note"
+
+  mail:
+    enabled: true
+    acronyms: "(E) (e) *email*"
+    description: "mail"
+
+  rose:
+    enabled: true
+    acronyms: "@}->-- @};- (F) (f)"
+    description: "rose"
+
+  rose_dead:
+    enabled: true
+    acronyms: "(W) (w)"
+    description: "rose-dead"
+
+  clock:
+    enabled: true
+    acronyms: "(O) (o) *time*"
+    description: "clock"
+
+  kiss:
+    enabled: true
+    acronyms: "(K) (k) :-* :* *kissed*"
+    description: "kiss"
+
+  present:
+    enabled: true
+    acronyms: "(G) (g) *gift*"
+    description: "present"
+
+  cake:
+    enabled: true
+    acronyms: "(^)"
+    description: "cake"
+
+  camera:
+    enabled: true
+    acronyms: "(P) (p)"
+    description: "camera"
+
+  lamp:
+    enabled: true
+    acronyms: "/! *-:) (I) (i) *lightbulb*"
+    description: "lamp"
+
+  coffee:
+    enabled: true
+    acronyms: "~o) ~O) (C) (c)"
+    description: "coffee"
+
+  phone:
+    enabled: true
+    acronyms: "(T) (t)"
+    description: "phone"
+
+  hug_left:
+    enabled: true
+    acronyms: "({) >:D< >:d<"
+    description: "hug-left"
+
+  hug_right:
+    enabled: true
+    acronyms: "(})"
+    description: "hug-right"
+
+  beer:
+    enabled: true
+    acronyms: "(B) (b)"
+    description: "beer"
+
+  drink:
+    enabled: true
+    acronyms: "(D) (d)"
+    description: "drink"
+
+  boy:
+    enabled: true
+    acronyms: "(Z) (z) *man*"
+    description: "boy"
+
+  girl:
+    enabled: true
+    acronyms: "(X) (x) *woman*"
+    description: "girl"
+
+  good:
+    enabled: true
+    acronyms: "(Y) (y) *thumbs_up*"
+    description: "good"
+
+  bad:
+    enabled: true
+    acronyms: "(N) (n) *thumbs_down*"
+    description: "bad"
+
+  vampire:
+    enabled: true
+    acronyms: ":[ :-["
+    description: "vampire"
+
+  goat:
+    enabled: true
+    acronyms: "(nah)"
+    description: "goat"
+
+  sun:
+    enabled: true
+    acronyms: "(#)"
+    description: "sun"
+
+  rainbow:
+    enabled: true
+    acronyms: "(R) (r)"
+    description: "rainbow"
+
+  quiet:
+    enabled: true
+    acronyms: ":-# ;x :-$ *shh*"
+    description: "quiet"
+
+  teeth:
+    enabled: true
+    acronyms: "8o|"
+    description: "teeth"
+
+  glasses_nerdy:
+    enabled: true
+    acronyms: "8-| :-B :-b"
+    description: "glasses-nerdy"
+
+  sarcastic:
+    enabled: true
+    acronyms: "^o) /:)"
+    description: "sarcastic"
+
+  secret:
+    enabled: true
+    acronyms: ":-*"
+    description: "secret"
+
+  sick:
+    enabled: true
+    acronyms: "+o( :T :-! :-&"
+    description: "sick"
+
+  snail:
+    enabled: true
+    acronyms: "(sn)"
+    description: "snail"
+
+  turtle:
+    enabled: true
+    acronyms: "(tu)"
+    description: "turtle"
+
+  plate:
+    enabled: true
+    acronyms: "(pl)"
+    description: "plate"
+
+  bowl:
+    enabled: true
+    acronyms: "(||) *cup*"
+    description: "bowl"
+
+  pizza:
+    enabled: true
+    acronyms: "(pi)"
+    description: "pizza"
+
+  soccerball:
+    enabled: true
+    acronyms: "(so) *soccer*"
+    description: "soccerball"
+
+  car:
+    enabled: true
+    acronyms: "(au)"
+    description: "car"
+
+  airplane:
+    enabled: true
+    acronyms: "(ap)"
+    description: "airplane"
+
+  umbrella:
+    enabled: true
+    acronyms: "(um)"
+    description: "umbrella"
+
+  island:
+    enabled: true
+    acronyms: "(ip)"
+    description: "island"
+
+  computer:
+    enabled: true
+    acronyms: "(co)"
+    description: "computer"
+
+  mobile:
+    enabled: true
+    acronyms: "(mp)"
+    description: "mobile"
+
+  brb:
+    enabled: true
+    acronyms: "(brb)"
+    description: "brb"
+
+  rain:
+    enabled: true
+    acronyms: "(st) <!!>"
+    description: "rain"
+
+  highfive:
+    enabled: true
+    acronyms: "(h5)"
+    description: "highfive"
+
+  coins:
+    enabled: true
+    acronyms: "(mo) /$ $-) *money*"
+    description: "coins"
+
+  sheep:
+    enabled: true
+    acronyms: "(bah)"
+    description: "sheep"
+
+  dont_know:
+    enabled: true
+    acronyms: ":-L :-l :^)"
+    description: "dont-know"
+
+  thinking:
+    enabled: true
+    acronyms: "*-) :-\\ :-/ :-?"
+    description: "thinking"
+
+  thunder:
+    enabled: true
+    acronyms: "(li) *lightning*"
+    description: "thunder"
+
+  party:
+    enabled: true
+    acronyms: "<:-P <:-p <:o)"
+    description: "party"
+
+  eyeroll:
+    enabled: true
+    acronyms: "8-) 8-|"
+    description: "eyeroll"
+
+  yawn:
+    enabled: true
+    acronyms: "|-) (:|"
+    description: "yawn *sleepy*"
+
+  skywalker:
+    enabled: true
+    acronyms: "C:-) c:-) C:) c:)"
+    description: "skywalker"
+
+  monkey:
+    enabled: true
+    acronyms: ":-(|)"
+    description: "monkey"
+
+  # Hidden MSN emotes
+  cigarette:
+    enabled: true
+    acronyms: "(ci) (CI)"
+    description: "sigarette"
+
+  handcuffs:
+    enabled: true
+    acronyms: "(%)"
+    description: "handcuffs"
+
+  console:
+    enabled: true
+    acronyms: "(xx) (XX)"
+    description: "console"
+
+  fingers_crossed:
+    enabled: true
+    acronyms: "(yn) (YN)"
+    description: "fingers-crossed"
+
+  # Following QQ 2006 (QQ)
+  dazed:
+    enabled: true
+    acronyms: ""
+    description: "dazed"
+
+  bashful:
+    enabled: true
+    acronyms: ""
+    description: "bashful"
+
+  shut_mouth:
+    enabled: true
+    acronyms: ":-X :X"
+    description: "shut-mouth"
+
+  sleepy:
+    enabled: true
+    acronyms: ":Z I-) i-) |-) *sleep* *tired*"
+    description: "sleepy"
+
+  weep:
+    enabled: true
+    acronyms: ":-<"
+    description: "weep"
+
+  pissed_off:
+    enabled: true
+    acronyms: ":@"
+    description: "pissed-off"
+
+  act_up:
+    enabled: true
+    acronyms: ""
+    description: "act-up"
+
+  doctor:
+    enabled: true
+    acronyms: ":#"
+    description: "doctor"
+
+  silly:
+    enabled: true
+    acronyms: "8-} :Q *crazy*"
+    description: "silly"
+
+  snicker:
+    enabled: true
+    acronyms: ";p"
+    description: "snicker"
+
+  cute:
+    enabled: true
+    acronyms: ";-D"
+    description: "cute"
+
+  disdain:
+    enabled: true
+    acronyms: ";d"
+    description: "disdain"
+
+  arrogant:
+    enabled: true
+    acronyms: "[-( ;o"
+    description: "arrogant"
+
+  starving:
+    enabled: true
+    acronyms: ":g"
+    description: "starving"
+
+  terror:
+    enabled: true
+    acronyms: ":!"
+    description: "terror"
+
+  sweat:
+    enabled: true
+    acronyms: " #:-S #:-s :L"
+    description: "sweat"
+
+  smirk:
+    enabled: true
+    acronyms: ":>"
+    description: "smirk"
+
+  soldier:
+    enabled: true
+    acronyms: ":;"
+    description: "soldier"
+
+  struggle:
+    enabled: true
+    acronyms: ";f"
+    description: "struggle"
+
+  curse:
+    enabled: true
+    acronyms: ":-S"
+    description: "curse"
+
+  question:
+    enabled: true
+    acronyms: ":-/ :-\\ \?"
+    description: "question"
+
+  hypnotized:
+    enabled: true
+    acronyms: "@-) ;@ *dizzy*"
+    description: "hypnotized"
+
+  excruciating:
+    enabled: true
+    acronyms: ":8"
+    description: "excruciating"
+
+  freaked_out:
+    enabled: true
+    acronyms: ";!"
+    description: "freaked-out"
+
+  skeleton:
+    enabled: true
+    acronyms: "8-X 8-x !!!"
+    description: "skeleton"
+
+  hammer:
+    enabled: true
+    acronyms: "xx"
+    description: "hammer"
+
+  bye:
+    enabled: true
+    acronyms: "=;"
+    description: "bye"
+
+  go_away:
+    enabled: true
+    acronyms: ":-h *go*"
+    description: "go-away"
+
+  tremble:
+    enabled: true
+    acronyms: "*shake*"
+    description: "tremble"
+
+  in_love:
+    enabled: true
+    acronyms: ":x :-x :X :-X *in_love*"
+    description: "in-love"
+
+  jump:
+    enabled: true
+    acronyms: ""
+    description: "jump"
+
+  search:
+    enabled: true
+    acronyms: "*find*"
+    description: "search"
+
+  lashes:
+    enabled: true
+    acronyms: "/& ;;)"
+    description: "lashes"
+
+  pig:
+    enabled: true
+    acronyms: ":@)"
+    description: "pig"
+
+  bomb:
+    enabled: true
+    acronyms: "@="
+    description: "bomb"
+
+  knife:
+    enabled: true
+    acronyms: ""
+    description: "knife"
+
+  poop:
+    enabled: true
+    acronyms: "*shit*"
+    description: "poop"
+
+  eat:
+    enabled: true
+    acronyms: ""
+    description: "eat"
+
+  pill:
+    enabled: true
+    acronyms: ""
+    description: "pill"
+
+  wilt:
+    enabled: true
+    acronyms: "*fade*"
+    description: "wilt"
+
+  meeting:
+    enabled: true
+    acronyms: ""
+    description: "meeting"
+
+  tv:
+    enabled: true
+    acronyms: ""
+    description: "tv"
+
+  handshake:
+    enabled: true
+    acronyms: "*share*"
+    description: "handshake"
+
+  victory:
+    enabled: true
+    acronyms: "/v"
+    description: "victory"
+
+  beauty:
+    enabled: true
+    acronyms: "<J>"
+    description: "beauty"
+
+  qq:
+    enabled: true
+    acronyms: "<QQ> qq"
+    description: "qq"
+
+  blowkiss:
+    enabled: true
+    acronyms: "<L> *blow_kiss*"
+    description: "blowkiss"
+
+  liquor:
+    enabled: true
+    acronyms: "<B>"
+    description: "liquor"
+
+  can:
+    enabled: true
+    acronyms: "<U> *soda*"
+    description: "can"
+
+  watermelon:
+    enabled: true
+    acronyms: "<W>"
+    description: ""
+
+  cloudy:
+    enabled: true
+    acronyms: "<~>"
+    description: "cloudy"
+
+  snowman:
+    enabled: true
+    acronyms: "<Z>"
+    description: "snowman"
+
+  # Following ICQ 5.1 (ICQ)
+  laugh:
+    enabled: true
+    acronyms: ":)) :-)) *jokingly*"
+    description: "laugh"
+
+  shout:
+    enabled: true
+    acronyms: ">:o >:O"
+    description: "shout"
+
+  moneymouth:
+    enabled: true
+    acronyms: ":-$"
+    description: "moneymouth"
+
+  # Following Yahoo! Messenger 8.1 (Yahoo)
+  drool:
+    enabled: true
+    acronyms: "=P~ =p~"
+    description: "drool"
+
+  lying:
+    enabled: true
+    acronyms: ":^O :^o"
+    description: "lying"
+
+  call_me:
+    enabled: true
+    acronyms: ":-c"
+    description: "call-me"
+
+  mean:
+    enabled: true
+    acronyms: ":-> :>"
+    description: "mean"
+
+  waiting:
+    enabled: true
+    acronyms: ":-w :-W"
+    description: "waiting"
+
+  clown:
+    enabled: true
+    acronyms: ":o) :O)"
+    description: "clown"
+
+  doh:
+    enabled: true
+    acronyms: "#-o #-O"
+    description: "doh"
+
+  clap:
+    enabled: true
+    acronyms: "=D> =d>"
+    description: "clap"
+
+  mad_tongue:
+    enabled: true
+    acronyms: ">:P >:p"
+    description: "mad-tongue"
+
+  sweat:
+    enabled: true
+    acronyms: "#:-S #:-s"
+    description: "sweat"
+
+  rotfl:
+    enabled: true
+    acronyms: "=))"
+    description: "rotfl"
+
+  nailbiting:
+    enabled: true
+    acronyms: ":-SS  :-Ss  :-sS  :-ss"
+    description: "nailbiting"
+
+  cowboy:
+    enabled: true
+    acronyms: "<):)"
+    description: "cowboy"
+
+  desire:
+    enabled: true
+    acronyms: "8->"
+    description: "desire"
+
+  # Hidden Yahoo emotes
+  alien:
+    enabled: true
+    acronyms: "=:) >-)"
+    description: "alien"
+
+  beat_up:
+    enabled: true
+    acronyms: "b-( B-("
+    description: "beat-up"
+
+  chicken:
+    enabled: true
+    acronyms: "~:>"
+    description: "chicken"
+
+  cow:
+    enabled: true
+    acronyms: "3:-O 3:-o"
+    description: "cow"
+
+  dance:
+    enabled: true
+    acronyms: "\\:D/ \\:d/"
+    description: "dance"
+
+  peace:
+    enabled: true
+    acronyms: ":)>-"
+    description: "peace"
+
+  pray:
+    enabled: true
+    acronyms: "[-o< [-O<"
+    description: "pray"
+
+  pumpkin:
+    enabled: true
+    acronyms: "(~~)"
+    description: "pumpkin"
+
+  shame:
+    enabled: true
+    acronyms: "[-X [-x"
+    description: "shame"
+
+  flag:
+    enabled: true
+    acronyms: "**=="
+    description: "flag"
+
+  clover:
+    enabled: true
+    acronyms: "%%-"
+    description: "clover"
+
+  giggle:
+    enabled: true
+    acronyms: ";))"
+    description: "giggle"
+
+  worship:
+    enabled: true
+    acronyms: "^:)^"
+    description: "worship"
+
+  yin_yang:
+    enabled: true
+    acronyms: "(%)"
+    description: "yin-yang"
