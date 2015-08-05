@@ -1,4 +1,4 @@
-# Contributing to Grav Smileys Data Pack -- Pidgin smileys
+# Contributing to Grav Smileys Data Pack - Pidgin Smileys
 
 Please take a moment to review this document in order to make the contribution process easy and effective for everyone involved.
 
